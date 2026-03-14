@@ -59,6 +59,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,4 +68,12 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
