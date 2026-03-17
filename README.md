@@ -59,6 +59,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -85,6 +86,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
