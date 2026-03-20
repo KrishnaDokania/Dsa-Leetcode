@@ -22,6 +22,7 @@ This repo is created to store all the solved and leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
@@ -62,6 +63,7 @@ This repo is created to store all the solved and leetcode problems
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -91,14 +93,20 @@ This repo is created to store all the solved and leetcode problems
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
