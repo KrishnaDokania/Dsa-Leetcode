@@ -60,6 +60,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
@@ -106,6 +107,7 @@ This repo is created to store all the solved and leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
@@ -115,4 +117,5 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
