@@ -52,6 +52,7 @@ This repo is created to store all the solved and leetcode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -62,6 +63,7 @@ This repo is created to store all the solved and leetcode problems
 | [0011-container-with-most-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
