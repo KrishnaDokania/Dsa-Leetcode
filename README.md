@@ -65,6 +65,7 @@ This repo is created to store all the solved and leetcode problems
 | [0016-3sum-closest](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
@@ -97,6 +98,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
