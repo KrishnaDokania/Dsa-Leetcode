@@ -15,6 +15,7 @@ This repo is created to store all the solved and leetcode problems
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -26,6 +27,7 @@ This repo is created to store all the solved and leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
+| [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -37,6 +39,7 @@ This repo is created to store all the solved and leetcode problems
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -108,6 +111,7 @@ This repo is created to store all the solved and leetcode problems
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 ## String
 |  |
 | ------- |
