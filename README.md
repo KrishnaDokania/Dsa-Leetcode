@@ -17,6 +17,7 @@ This repo is created to store all the solved and leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -28,6 +29,7 @@ This repo is created to store all the solved and leetcode problems
 | [0100-same-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -41,6 +43,7 @@ This repo is created to store all the solved and leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -117,6 +120,7 @@ This repo is created to store all the solved and leetcode problems
 | [0093-restore-ip-addresses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 ## String
 |  |
 | ------- |
@@ -124,6 +128,7 @@ This repo is created to store all the solved and leetcode problems
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Sorting
