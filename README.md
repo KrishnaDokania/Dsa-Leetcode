@@ -56,6 +56,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -68,6 +69,7 @@ This repo is created to store all the solved and leetcode problems
 | [0016-3sum-closest](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
