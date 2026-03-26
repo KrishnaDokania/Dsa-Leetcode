@@ -131,6 +131,7 @@ This repo is created to store all the solved and leetcode problems
 | [0022-generate-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -153,6 +154,7 @@ This repo is created to store all the solved and leetcode problems
 | [0016-3sum-closest](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
