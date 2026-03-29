@@ -162,6 +162,7 @@ This repo is created to store all the solved and leetcode problems
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0061-rotate-list) |
 ## Heap (Priority Queue)
@@ -175,5 +176,10 @@ This repo is created to store all the solved and leetcode problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0002-add-two-numbers) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
