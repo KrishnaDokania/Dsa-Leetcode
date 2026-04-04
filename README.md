@@ -96,12 +96,14 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
