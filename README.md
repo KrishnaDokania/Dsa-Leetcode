@@ -7,6 +7,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@ This repo is created to store all the solved and leetcode problems
 | [0303-range-sum-query-immutable](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
@@ -211,6 +213,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0037-sudoku-solver) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -224,4 +227,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
