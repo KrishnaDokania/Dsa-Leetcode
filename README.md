@@ -203,6 +203,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
