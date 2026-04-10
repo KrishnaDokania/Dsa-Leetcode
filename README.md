@@ -94,6 +94,7 @@ This repo is created to store all the solved and leetcode problems
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0724-find-pivot-index) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repo is created to store all the solved and leetcode problems
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 ## Greedy
 |  |
 | ------- |
