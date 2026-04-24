@@ -168,6 +168,7 @@ This repo is created to store all the solved and leetcode problems
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2833-furthest-point-from-origin](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -247,4 +248,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
