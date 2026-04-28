@@ -100,6 +100,7 @@ This repo is created to store all the solved and leetcode problems
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,11 +177,13 @@ This repo is created to store all the solved and leetcode problems
 | [0016-3sum-closest](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +220,7 @@ This repo is created to store all the solved and leetcode problems
 | [0326-power-of-three](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Recursion
 |  |
 | ------- |
