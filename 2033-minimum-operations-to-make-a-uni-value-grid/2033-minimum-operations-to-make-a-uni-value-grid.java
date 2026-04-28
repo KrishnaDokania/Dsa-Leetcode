@@ -12,20 +12,22 @@ class Solution {
        int mid=arr.length/2;
        int count=0;
        for(int i=0;i<arr.length;i++){
-        while(arr[i]!=arr[mid]){
-            if(arr[i]<arr[mid]){
-                arr[i]=arr[i]+x;
-                if(arr[i]>arr[mid])
-                return -1;
-            }
-            else{
-            arr[i]=arr[i]-x;
-            if(arr[i]<arr[mid])
-            return -1;
-             }
+        // while(arr[i]!=arr[mid]){
+        //     if(arr[i]<arr[mid]){
+        //         arr[i]=arr[i]+x;
+        //         if(arr[i]>arr[mid])
+        //         return -1;
+        //     }
+        //     else{
+        //     arr[i]=arr[i]-x;
+        //     if(arr[i]<arr[mid])
+        //     return -1;
+        //      }
 
-        count++;
-        }
+        // count++;
+        // }
+        if((arr[mid]-arr[i])%x!=0)return -1;
+        count+=Math.abs((arr[mid]-arr[i])/x);
        }
        return count;
     }
