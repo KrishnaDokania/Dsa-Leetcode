@@ -85,6 +85,7 @@ This repo is created to store all the solved and leetcode problems
 | [0040-combination-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
@@ -184,6 +185,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -218,6 +220,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0326-power-of-three) |
