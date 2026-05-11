@@ -102,6 +102,7 @@ This repo is created to store all the solved and leetcode problems
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -262,4 +263,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2833-furthest-point-from-origin) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
