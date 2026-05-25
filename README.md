@@ -32,6 +32,7 @@ This repo is created to store all the solved and leetcode problems
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -58,6 +59,7 @@ This repo is created to store all the solved and leetcode problems
 | [0101-symmetric-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
@@ -94,6 +96,7 @@ This repo is created to store all the solved and leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -190,6 +193,7 @@ This repo is created to store all the solved and leetcode problems
 | [0037-sudoku-solver](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
@@ -269,4 +273,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
