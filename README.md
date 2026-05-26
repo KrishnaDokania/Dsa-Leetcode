@@ -62,6 +62,7 @@ This repo is created to store all the solved and leetcode problems
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ This repo is created to store all the solved and leetcode problems
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0724-find-pivot-index) |
+| [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -194,6 +196,7 @@ This repo is created to store all the solved and leetcode problems
 | [0048-rotate-image](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
