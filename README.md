@@ -280,4 +280,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
