@@ -144,6 +144,7 @@ This repo is created to store all the solved and leetcode problems
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +249,7 @@ This repo is created to store all the solved and leetcode problems
 | [0342-power-of-four](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -296,4 +298,8 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
