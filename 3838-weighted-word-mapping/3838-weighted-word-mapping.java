@@ -1,6 +1,6 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
-        String tmp="";
+        StringBuilder sb = new StringBuilder();
         for(int i=0;i<words.length;i++)
             {
                 int sum=0;
@@ -8,8 +8,8 @@ class Solution {
                     sum+=weights[words[i].charAt(j)-'a'];
                 }
                 sum=(25-(sum%26))+97;
-                tmp=tmp+(char)sum;
+                sb.append((char)sum);
             }
-            return tmp;
+            return sb.toString();
     }
 }
