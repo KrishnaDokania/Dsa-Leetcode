@@ -8,6 +8,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -225,6 +226,7 @@ This repo is created to store all the solved and leetcode problems
 | [0061-rotate-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0125-valid-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
@@ -234,6 +236,7 @@ This repo is created to store all the solved and leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
