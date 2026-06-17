@@ -108,6 +108,7 @@ This repo is created to store all the solved and leetcode problems
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0724-find-pivot-index) |
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -286,6 +287,7 @@ This repo is created to store all the solved and leetcode problems
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
 | ------- |
@@ -294,6 +296,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
