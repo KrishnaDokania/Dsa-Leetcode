@@ -142,6 +142,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -257,6 +258,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0326-power-of-three) |
@@ -322,4 +324,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
