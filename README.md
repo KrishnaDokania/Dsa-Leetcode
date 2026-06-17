@@ -226,6 +226,7 @@ This repo is created to store all the solved and leetcode problems
 | [0031-next-permutation](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -238,6 +239,7 @@ This repo is created to store all the solved and leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
@@ -274,6 +276,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
