@@ -81,6 +81,7 @@ This repo is created to store all the solved and leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0015-3sum) |
@@ -274,6 +275,7 @@ This repo is created to store all the solved and leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0127-word-ladder) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
