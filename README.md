@@ -7,6 +7,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -101,6 +102,7 @@ This repo is created to store all the solved and leetcode problems
 | [0051-n-queens](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0136-single-number) |
@@ -316,6 +318,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
