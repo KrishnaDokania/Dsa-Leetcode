@@ -119,6 +119,7 @@ This repo is created to store all the solved and leetcode problems
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1260-shift-2d-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1732-find-the-highest-altitude](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -231,6 +232,7 @@ This repo is created to store all the solved and leetcode problems
 | [0079-word-search](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1260-shift-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Two Pointers
@@ -335,6 +337,7 @@ This repo is created to store all the solved and leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3838-weighted-word-mapping) |
