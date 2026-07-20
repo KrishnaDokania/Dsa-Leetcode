@@ -2,7 +2,7 @@ class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
         int m = grid.length;
         int n = grid[0].length;
-
+        k%=m*n;
         while (k > 0) {
             int[][] arr = new int[m][n];
 
