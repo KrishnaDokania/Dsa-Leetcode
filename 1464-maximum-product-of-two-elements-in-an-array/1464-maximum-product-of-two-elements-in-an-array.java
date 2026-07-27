@@ -1,7 +1,6 @@
 class Solution {
     public int maxProduct(int[] num){
         int l=num.length;
-        int total=0;
         int max1=-1;
         int max2=-1;
         for(int i=0;i<l;i++){
@@ -12,8 +11,7 @@ class Solution {
             else if(max2<num[i])
             max2=num[i];
         }
-            total=(max1-1)*(max2-1);
+        return (max1-1)*(max2-1);
         
-        return total;
     }
 }
