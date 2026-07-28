@@ -8,10 +8,9 @@ class Solution {
        StringBuilder left = new StringBuilder();
        StringBuilder mid=new StringBuilder();
         for(int i=0;i<26;i++){
-            for (int j = 0; j < ch[i] / 2; j++) {
-                left.append((char) ('a' + i));
-        }
-        if(ch[i]%2==1 && mid.length()==0){
+            if(ch[i]>0)
+               left.append(String.valueOf((char)('a' + i)).repeat(ch[i] / 2));
+               if(ch[i]%2==1 && mid.length()==0){
             mid.append((char) ('a' + i));
         }
         }
