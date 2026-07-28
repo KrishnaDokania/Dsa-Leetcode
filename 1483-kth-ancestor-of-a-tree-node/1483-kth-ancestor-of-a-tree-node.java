@@ -4,7 +4,7 @@ class TreeAncestor {
     int ancestor[][];
     public TreeAncestor(int n, int[] parent) {
     row=n;
-    col= (int) Math.ceil(Math.log(n) / Math.log(2))+1;
+    col = 32 - Integer.numberOfLeadingZeros(n);
     ancestor=new int[row][col];
     for(int[]ances:ancestor)
     Arrays.fill(ances,-1);
