@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node">1483. Kth Ancestor of a Tree Node</a></h2><h3>Hard</h3><hr><p>You are given a tree with <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code> in the form of a parent array <code>parent</code> where <code>parent[i]</code> is the parent of <code>i<sup>th</sup></code> node. The root of the tree is node <code>0</code>. Find the <code>k<sup>th</sup></code> ancestor of a given node.</p>
+<h2><a href="https://leetcode.com/problems/kth-ancestor-of-a-tree-node">1296. Kth Ancestor of a Tree Node</a></h2><h3>Hard</h3><hr><p>You are given a tree with <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code> in the form of a parent array <code>parent</code> where <code>parent[i]</code> is the parent of <code>i<sup>th</sup></code> node. The root of the tree is node <code>0</code>. Find the <code>k<sup>th</sup></code> ancestor of a given node.</p>
 
 <p>The <code>k<sup>th</sup></code> ancestor of a tree node is the <code>k<sup>th</sup></code> node in the path from that node to the root node.</p>
 
