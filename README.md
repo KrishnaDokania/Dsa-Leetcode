@@ -118,6 +118,7 @@ This repo is created to store all the solved and leetcode problems
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@ This repo is created to store all the solved and leetcode problems
 | [0338-counting-bits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
+| [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -308,6 +310,7 @@ This repo is created to store all the solved and leetcode problems
 | [0326-power-of-three](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -323,6 +326,7 @@ This repo is created to store all the solved and leetcode problems
 | [0231-power-of-two](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -418,4 +422,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
