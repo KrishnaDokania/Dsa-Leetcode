@@ -124,6 +124,7 @@ This repo is created to store all the solved and leetcode problems
 | [0560-subarray-sum-equals-k](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -174,6 +175,7 @@ This repo is created to store all the solved and leetcode problems
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0877-stone-game) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -312,6 +314,7 @@ This repo is created to store all the solved and leetcode problems
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0877-stone-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -426,4 +429,5 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
