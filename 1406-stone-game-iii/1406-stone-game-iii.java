@@ -1,11 +1,11 @@
 class Solution {
     int[] dp;
-    int[] stoneValue;
+    int[] stone;
     int n;
 
     public String stoneGameIII(int[] stoneValue) {
-        this.stoneValue = stoneValue;
-        n = stoneValue.length;
+        stone = stoneValue;
+        n = stone.length;
 
         dp = new int[n];
         Arrays.fill(dp, Integer.MIN_VALUE);
@@ -18,19 +18,22 @@ class Solution {
     }
 
     int solve(int i) {
-        if (i >= n) return 0;
+        if (i >= n)
+            return 0;
 
         if (dp[i] != Integer.MIN_VALUE)
             return dp[i];
 
-        int sum = 0;
-        int best = Integer.MIN_VALUE;
+        int take1 = stone[i] - solve(i + 1);
 
-        for (int k = 0; k < 3 && i + k < n; k++) {
-            sum += stoneValue[i + k];
-            best = Math.max(best, sum - solve(i + k + 1));
-        }
+        int take2 = Integer.MIN_VALUE;
+        if (i + 1 < n)
+            take2 = stone[i] + stone[i + 1] - solve(i + 2);
 
-        return dp[i] = best;
+        int take3 = Integer.MIN_VALUE;
+        if (i + 2 < n)
+            take3 = stone[i] + stone[i + 1] + stone[i + 2] - solve(i + 3);
+
+        return dp[i] = Math.max(take1, Math.max(take2, take3));
     }
 }
