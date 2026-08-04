@@ -140,6 +140,7 @@ This repo is created to store all the solved and leetcode problems
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
@@ -251,6 +252,7 @@ This repo is created to store all the solved and leetcode problems
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -345,6 +347,7 @@ This repo is created to store all the solved and leetcode problems
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
