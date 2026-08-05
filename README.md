@@ -42,6 +42,7 @@ This repo is created to store all the solved and leetcode problems
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3310-remove-methods-from-project](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This repo is created to store all the solved and leetcode problems
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3310-remove-methods-from-project](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -399,6 +401,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [3310-remove-methods-from-project](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
