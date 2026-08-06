@@ -113,6 +113,7 @@ This repo is created to store all the solved and leetcode problems
 | [0084-largest-rectangle-in-histogram](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -173,6 +174,7 @@ This repo is created to store all the solved and leetcode problems
 | [0042-trapping-rain-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0338-counting-bits) |
