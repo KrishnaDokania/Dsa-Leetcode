@@ -196,6 +196,7 @@ This repo is created to store all the solved and leetcode problems
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Backtracking
 |  |
@@ -218,6 +219,7 @@ This repo is created to store all the solved and leetcode problems
 | [0357-count-numbers-with-unique-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
@@ -236,6 +238,7 @@ This repo is created to store all the solved and leetcode problems
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2833-furthest-point-from-origin](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -326,6 +329,7 @@ This repo is created to store all the solved and leetcode problems
 | [1406-stone-game-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1406-stone-game-iii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -427,6 +431,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Segment Tree
 |  |
