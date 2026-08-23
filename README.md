@@ -203,6 +203,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
+| [1927-sum-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -246,6 +247,7 @@ This repo is created to store all the solved and leetcode problems
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1927-sum-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -342,6 +344,7 @@ This repo is created to store all the solved and leetcode problems
 | [1406-stone-game-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1927-sum-game) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -470,6 +473,7 @@ This repo is created to store all the solved and leetcode problems
 | [1406-stone-game-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1510-stone-game-iv) |
 | [1690-stone-game-vii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1690-stone-game-vii) |
+| [1927-sum-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
