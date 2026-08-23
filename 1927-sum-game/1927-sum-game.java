@@ -1,17 +1,40 @@
 class Solution {
-    public boolean sumGame(String A) {
-        int[] sum = {0, 0}, q = {0, 0};
-        int n = A.length();
+    public boolean sumGame(String num) {
+        int n = num.length();
+        int half = n / 2;
 
-        for (int i = 0; i < n; i++) {
-            int j = i / (n >> 1);
-            if (A.charAt(i) == '?')
-                q[j]++;
-            else
-                sum[j] += A.charAt(i) - '0';
+        int leftSum = 0;
+        int rightSum = 0;
+        int leftQ = 0;
+        int rightQ = 0;
+
+        for (int i = 0; i < half; i++) {
+            char c = num.charAt(i);
+
+            if (c == '?') {
+                leftQ++;
+            } else {
+                leftSum += c - '0';
+            }
         }
 
-        return ((q[0] + q[1]) % 2 == 1) ||
-               ((sum[0] - sum[1]) << 1) != (q[1] - q[0]) * 9;
+        for (int i = half; i < n; i++) {
+            char c = num.charAt(i);
+
+            if (c == '?') {
+                rightQ++;
+            } else {
+                rightSum += c - '0';
+            }
+        }
+
+        int qDiff = leftQ - rightQ;
+        int sumDiff = leftSum - rightSum;
+
+        if (qDiff % 2 != 0) {
+            return true;
+        }
+
+        return sumDiff + 9 * (qDiff / 2) != 0;
     }
 }
