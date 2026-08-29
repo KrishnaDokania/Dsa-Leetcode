@@ -145,6 +145,7 @@ This repo is created to store all the solved and leetcode problems
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -272,6 +273,7 @@ This repo is created to store all the solved and leetcode problems
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -424,6 +426,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
