@@ -120,6 +120,7 @@ This repo is created to store all the solved and leetcode problems
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0228-summary-ranges) |
 | [0275-h-index-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0303-range-sum-query-immutable) |
