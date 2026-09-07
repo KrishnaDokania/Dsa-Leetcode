@@ -197,6 +197,7 @@ This repo is created to store all the solved and leetcode problems
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1406-stone-game-iii) |
@@ -249,6 +250,7 @@ This repo is created to store all the solved and leetcode problems
 | [0127-word-ladder](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
+| [0940-distinct-subsequences-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
