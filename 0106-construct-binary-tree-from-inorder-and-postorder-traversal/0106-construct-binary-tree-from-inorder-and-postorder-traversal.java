@@ -28,7 +28,6 @@ class Solution {
         }
         TreeNode root=new TreeNode(rootval);
         int left=i-instart;
-        int right=inend-i;
         root.left=solve(inorder,postorder,instart,i-1,poststart,poststart+left-1);
         root.right=solve(inorder,postorder,i+1,inend,poststart+left,postend-1);
         return root;
