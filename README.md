@@ -365,6 +365,7 @@ This repo is created to store all the solved and leetcode problems
 | [0486-predict-the-winner](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -535,4 +536,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
