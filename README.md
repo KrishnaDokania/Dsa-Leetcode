@@ -13,6 +13,7 @@ This repo is created to store all the solved and leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -279,6 +280,7 @@ This repo is created to store all the solved and leetcode problems
 | [0131-palindrome-partitioning](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -573,6 +575,7 @@ This repo is created to store all the solved and leetcode problems
 | [0022-generate-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
