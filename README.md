@@ -14,6 +14,7 @@ This repo is created to store all the solved and leetcode problems
 | [0496-next-greater-element-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -282,6 +283,7 @@ This repo is created to store all the solved and leetcode problems
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -576,6 +578,7 @@ This repo is created to store all the solved and leetcode problems
 | [0032-longest-valid-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
