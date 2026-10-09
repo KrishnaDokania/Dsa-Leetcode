@@ -16,6 +16,7 @@ This repo is created to store all the solved and leetcode problems
 | [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -238,6 +239,7 @@ This repo is created to store all the solved and leetcode problems
 | [0011-container-with-most-water](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
@@ -288,6 +290,7 @@ This repo is created to store all the solved and leetcode problems
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -579,6 +582,7 @@ This repo is created to store all the solved and leetcode problems
 | [0678-valid-parenthesis-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
