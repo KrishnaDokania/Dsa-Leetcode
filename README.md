@@ -101,6 +101,7 @@ This repo is created to store all the solved and leetcode problems
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -161,6 +162,7 @@ This repo is created to store all the solved and leetcode problems
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -243,6 +245,7 @@ This repo is created to store all the solved and leetcode problems
 | [1927-sum-game](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -320,6 +323,7 @@ This repo is created to store all the solved and leetcode problems
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -375,6 +379,7 @@ This repo is created to store all the solved and leetcode problems
 | [0023-merge-k-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
