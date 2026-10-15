@@ -252,6 +252,7 @@ This repo is created to store all the solved and leetcode problems
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -416,6 +417,7 @@ This repo is created to store all the solved and leetcode problems
 | [3525-find-x-value-of-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3871-count-commas-in-range-ii) |
