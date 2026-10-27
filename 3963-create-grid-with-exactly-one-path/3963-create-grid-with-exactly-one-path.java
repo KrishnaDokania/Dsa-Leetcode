@@ -1,16 +1,16 @@
 class Solution {
     public String[] createGrid(int m, int n) {
         String arr[]=new String[m];
-        String tmp="";
       for(int i=0;i<m;i++){
+        StringBuilder tmp=new StringBuilder();
         for(int j=0;j<n;j++){
             if(i==0||j==n-1){
-                tmp+=".";
+                tmp.append('.');
             }
-            else tmp+='#';
+            else 
+                tmp.append('#');
         }
-        arr[i]=tmp;
-        tmp="";
+        arr[i]=tmp.toString();
       }
       return arr;
     }
