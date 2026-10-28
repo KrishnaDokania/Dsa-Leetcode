@@ -191,6 +191,7 @@ This repo is created to store all the solved and leetcode problems
 | [3838-weighted-word-mapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +217,7 @@ This repo is created to store all the solved and leetcode problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -248,6 +250,7 @@ This repo is created to store all the solved and leetcode problems
 | [3524-find-x-value-of-array-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -363,6 +366,7 @@ This repo is created to store all the solved and leetcode problems
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
