@@ -37,6 +37,7 @@ This repo is created to store all the solved and leetcode problems
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This repo is created to store all the solved and leetcode problems
 | [1254-number-of-closed-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3310-remove-methods-from-project](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,6 +191,7 @@ This repo is created to store all the solved and leetcode problems
 | [3731-find-missing-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -200,6 +203,7 @@ This repo is created to store all the solved and leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +221,7 @@ This repo is created to store all the solved and leetcode problems
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -329,6 +334,7 @@ This repo is created to store all the solved and leetcode problems
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -567,6 +573,7 @@ This repo is created to store all the solved and leetcode problems
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -624,4 +631,8 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
