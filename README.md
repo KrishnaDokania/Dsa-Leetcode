@@ -191,6 +191,7 @@ This repo is created to store all the solved and leetcode problems
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -449,6 +450,7 @@ This repo is created to store all the solved and leetcode problems
 | [3536-maximum-product-of-two-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3871-count-commas-in-range-ii) |
