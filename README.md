@@ -170,6 +170,7 @@ This repo is created to store all the solved and leetcode problems
 | [1690-stone-game-vii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1690-stone-game-vii) |
 | [1732-find-the-highest-altitude](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1882-process-tasks-using-servers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -410,6 +411,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2285-maximum-total-importance-of-roads](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
