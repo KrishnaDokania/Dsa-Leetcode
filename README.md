@@ -53,6 +53,7 @@ This repo is created to store all the solved and leetcode problems
 | [0501-find-mode-in-binary-search-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1254-number-of-closed-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3310-remove-methods-from-project](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -87,6 +88,7 @@ This repo is created to store all the solved and leetcode problems
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3310-remove-methods-from-project](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -162,6 +164,7 @@ This repo is created to store all the solved and leetcode problems
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -373,6 +376,7 @@ This repo is created to store all the solved and leetcode problems
 | [0994-rotting-oranges](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -520,6 +524,7 @@ This repo is created to store all the solved and leetcode problems
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2833-furthest-point-from-origin](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -536,6 +541,7 @@ This repo is created to store all the solved and leetcode problems
 | ------- |
 | [0200-number-of-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
