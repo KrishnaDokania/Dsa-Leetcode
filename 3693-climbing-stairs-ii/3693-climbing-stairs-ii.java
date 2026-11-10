@@ -1,22 +1,22 @@
 class Solution {
+    int n;
+    int dp[];
     public int climbStairs(int n, int[] costs) {
-        int[] dp = new int[n + 1];
-
-        dp[0] = 0;
-
-        for (int i = 1; i <= n; i++) {
-            dp[i] = Integer.MAX_VALUE;
-
-            for (int jump = 1; jump <= 3; jump++) {
-                if (i - jump >= 0) {
-                    dp[i] = Math.min(
-                        dp[i],
-                        dp[i - jump] + costs[i - 1] + jump * jump
-                    );
-                }
-            }
-        }
-
-        return dp[n];
+        this.n=n;
+        dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return solve(0,costs);
     }
+    int solve(int i,int costs[]){
+        if(i==n)return 0;
+        if(dp[i]!=-1)return dp[i];
+        int result=Integer.MAX_VALUE;
+        for(int ind=1;ind<=3;ind++){
+        int j=ind+i;
+        if(j<=n){
+          result=Math.min(result,(costs[j-1]+ind*ind)+solve(j,costs));
+        }
+        }
+        return dp[i]=result;
+        }
 }
