@@ -194,6 +194,7 @@ This repo is created to store all the solved and leetcode problems
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -469,6 +470,7 @@ This repo is created to store all the solved and leetcode problems
 | [2409-count-days-spent-together](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -578,6 +580,7 @@ This repo is created to store all the solved and leetcode problems
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
@@ -601,12 +604,14 @@ This repo is created to store all the solved and leetcode problems
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Number Theory
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaDokania/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Segment Tree
 |  |
